@@ -1,0 +1,40 @@
+#navbar {
+    padding: 20px 0;
+    background-color: #08c;
+}
+
+.navbar {
+    width: 1350px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar-logo {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+.navbar-logo h1 {
+    color: #fff;
+    font-size: 24px;
+}
+.navbar nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+}
+.nav-block {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.nav-block {
+    color: #fff;
+}
+.nav-block h1 {
+    font-size: 20px;
+}
+nav h1 {
+    color: #fff;
+}
